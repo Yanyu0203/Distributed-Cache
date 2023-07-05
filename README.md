@@ -15,8 +15,8 @@ Test:
 ```
 $ sudo ./run.sh
 2023/07/01 21:54:24 [Server http://localhost:8003] Pick peer http://localhost:8001
-2020/02/16 21:54:24 [Server http://localhost:8001] GET /_distributedcache/scores/Tom
-2020/02/16 21:54:24 [SlowDB] search key Tom
+2020/07/01 21:54:24 [Server http://localhost:8001] GET /_distributedcache/scores/Tom
+2020/07/01 21:54:24 [SlowDB] search key Tom
 630630630
 ```
 
